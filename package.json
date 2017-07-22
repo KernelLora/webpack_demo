@@ -1,0 +1,22 @@
+{
+  "name": "angular_webpack_seed",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "css-loader": "^0.28.4",
+    "style-loader": "^0.18.2",
+    "webpack": "^3.3.0"
+  },
+  "dependencies": {
+    "angular-cli": "^1.0.0-beta.28.3",
+    "file-loader": "^0.11.2",
+    "lodash": "^4.17.4"
+  }
+}
